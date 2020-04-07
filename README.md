@@ -8,4 +8,4 @@ Next change was to section out the different sections and article tags and space
 
 Next changes were to add alt attributes to the img tags. 
 
-Before every change I made I used NOTES to identy every section of the web page to make it easy to understand for someone who has never looked at code before. 
+Before every change I made I used NOTES to identify every section of the web page to make it easy to understand for someone who has never looked at code before. 
