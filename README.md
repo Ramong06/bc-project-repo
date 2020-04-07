@@ -1,6 +1,6 @@
 # bc-project-repo
 
-*Repo for changes I make in homework 1 assigned by Bootcamp.*
+*Repo for html and css changes I made in homework 1 assigned by Bootcamp.*
 
 First changes that were made was to eliminate as many <div> tags as possible and replace them with semantic tags.
 
